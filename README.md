@@ -8,6 +8,9 @@ A userscript that remembers the playback position for Google Drive videos and as
 
 > [!NOTE]  
 > This currently has only been tested using the Violentmonkey extension for Google Chrome.
+
+> [!IMPORTANT]  
+> You must be on a direct file page, not a page inside of a Google Drive folder. For example, the URL would look something like this: https://drive.google.com/file/d/gy7xirf6tx4igbd/view
 ## Table of Contents
 
 - [Features](#features)
